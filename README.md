@@ -54,6 +54,16 @@ The models represent the schema used in the project:
 
 2. **Options Schema**: Defines the schema for options associated with questions.
 
+ ![All Question](image.png)
+
+ ![Create New Question](image-1.png)
+
+ ![Delete Question](image-2.png)
+
+ ![Create New Option based On Question](image-3.png)
+
+ ![delete Options if have't vote](image-4.png)
+
 ## Usage
 
 You can interact with the Polling-System-API by making HTTP requests to the appropriate endpoints defined by the routers. Refer to the API documentation or the codebase for specific endpoint details and usage instructions.
