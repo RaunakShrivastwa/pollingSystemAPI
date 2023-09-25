@@ -12,7 +12,7 @@ clone:  type in CMD
      ROUTER
     --------
 ## I am Using Router For Handle Coming Http Url
-1>  Index Router            ------>  Default Router For All APIs
+-  Index Router            ------>  Default Router For All APIs
 2>  Question Router         ------>  Handling All API Of Questions
 3>  Options Router          ------>  Handling All API of Options
 
